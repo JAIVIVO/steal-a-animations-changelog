@@ -14,6 +14,21 @@ const updates = [
     ]
   }
 ];
+  {
+    version: "v2.0.1",
+    date: "May 7, 2026",
+    tag: "1 Update",
+    sections: [
+      {
+        title: "Base Meme",
+        items: [
+          "JAIVIVO base have small change to meme.",
+          "Stock updated."
+        ]
+      }
+    ]
+  }
+];
 
 const versionList = document.getElementById("versionList");
 const detailsVersion = document.getElementById("detailsVersion");
